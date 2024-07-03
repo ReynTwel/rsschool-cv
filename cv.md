@@ -19,7 +19,17 @@ I am Junior UI/UX Designer as my main field of interest. Also I am begginer Fron
 # Education
 Currently second grade Software engeneering student at Ufa University of Science and Technology
 
+# Code
+Multiplycation function in JS, from Codewars registration page  
+
+    function multiply(a, b){  
+    return a * b  
+    }
+
 # Languages
 * Russian — Native
 * English — B2
+
+# Projects
+[Cv in Markdown and HTML + CSS for Front-End course at RSSchool](https://github.com/ReynTwel/rsschool-cv/tree/gh-pages)
 
