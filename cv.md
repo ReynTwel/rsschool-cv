@@ -7,7 +7,7 @@ Telegram: @ReynTwel
 Github: ReynTwel
 
 # About me
-I am a Junior UI/UX Designer with a passion for computer interfaces. In addition, I am a beginner Front-End developer. My main focus is on designing user-friendly interfaces, and I am eager to not only design them but also to understand the technical aspect and be capable of implementing them myself.
+I am a Junior UI/UX Designer with a passion for computer interfaces. In addition, I am a beginner Front-End developer. My main focus is on designing interfaces, and I am eager to not only design them but also to understand the technical aspect and be capable of implementing them myself.
 
 # Skills
 * Basic HTML and CSS
